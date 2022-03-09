@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Oladele
-- 👀 I’m interested in Technical/Applications Support. Also Web development.
-- 🌱 I’m currently learning Typescript, Javascript and Angular frameworks
+- 👋 Hi, I’m Oladele and I love to help solve problems.
+- 👀 I’m interested in Customer/Technical/Applications Support.
+- 🌱 I’m currently watching videos on Typescript, Javascript, Angular framework, Python and Django framework, Cypress testing.
 - 💞️ I’m looking to collaborate on exciting and projects that will challenge and hasten my learning.
-- 📫 How to reach me tizfreak2000@yahoo.com
+- 📫 How to reach me ogundeoladele@gmail.com
 
 <!---
 dnt8ladell/dnt8ladell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
